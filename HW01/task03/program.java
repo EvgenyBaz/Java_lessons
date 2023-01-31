@@ -36,14 +36,7 @@ public class program {
                 break;
         }
         System.out.printf("%f %s %f = %f",number1, calc_action, number2, result);
-
-
-
     }
-
-
-
-
 }
     
 
